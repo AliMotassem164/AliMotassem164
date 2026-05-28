@@ -73,4 +73,4 @@ class AhmedAdel {
 
 ## ⚡️ Motto
 
-> **“Let’s simplify learning, one line of code at a time.”**   بص ده فايل readme ع github , uhd.; ju
+> **“Let’s simplify learning, one line of code at a time.”**
